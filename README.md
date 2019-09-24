@@ -24,6 +24,10 @@ How to run
 3. Open your browser and navigate to `localhost:4200`
 4. You should see the angular welcome page. If the angular server is correctly hooked up to the rails server, you should see `API Test: api test success!` near the bottom of the page.
 
+The general idea is to create something like this:
+
+![todo](todo-mvc.png "Todo MVC")
+
 * Ruby version
 2.6.2
 
